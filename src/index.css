@@ -9,7 +9,7 @@
 }
 html.dark {
   --test-bg: #0f172a; /* gray-900 */
-  --test-text: #f8fafc; /* gray-100 */
+  --test-text: #71aeeb; 
 }
 body {
   background-color: var(--test-bg);

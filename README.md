@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Este proyecto está destinado a estudiar la manera adecuada de crear un toggle que cambie de modo claro a oscuro y viceversa usando Vite,Typescript y React.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
